@@ -1,6 +1,6 @@
-[submodule "ServicioPersonasClientes"]
+[submodule "ecuadorPerson"]
 	path = ecuadorPerson
 	url = https://github.com/julianest/ecuadorPerson.git
-[submodule "ServicioCuentasMovimientos"]
+[submodule "ecuadorCtaMov"]
 	path = ecuadorCtaMov
 	url = https://github.com/julianest/ecuadorCtaMov.git
